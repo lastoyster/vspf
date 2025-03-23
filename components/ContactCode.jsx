@@ -2,9 +2,8 @@ import styles from '../styles/ContactCode.module.css';
 
 const contactItems = [
   {
-    social: 'website',
-    link: 'nitinranganath.me',
-    href: 'https://nitinranganath.me',
+    social: 'linkedin',
+    link: 'https://www.linkedin.com/in/pratiksha-kadam-7706a3226/',   
   },
   {
     social: 'email',
@@ -16,15 +15,11 @@ const contactItems = [
     link: 'itsnitinr',
     href: 'https://github.com/lastoyster',
   },
-  {
-    social: 'linkedin',
-    link: 'pratiksha-kadam',
-    href: 'https://www.linkedin.com/in/pratiksha-kadam-7706a3226/',
-  },
+ 
   {
     social: 'twitter',
-    link: 'iamnitinr',
-    href: 'https://www.twitter.com/iamnitinr',
+    link: '@Epicsfan',
+    href: 'https://www.twitter.com/@Epicsfan',
   },
   {
     social: 'codewars',

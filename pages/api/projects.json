@@ -3,35 +3,48 @@
     "id": 1,
     "name": "React Flashcard app",
     "link": "flashcard-app-red-six.vercel.app",
+    "tags":  "React,AWS-CDK,Typescript",
     "description": "basic react.js flashcard which shows important react concepts as flashcards",
     "source_code": "https://github.com/lastoyster/Flashcard-app"
   },
   {
     "id": 2,
-    "name": "React Time Master ",
-    "link":"https://timer-app-gamma-nine.vercel.app/",
-    "description": "React-based pomodoro clone",
-    "source_code": "https://github.com/lastoyster/timer-app"
+    "name": "React 3d Car Website ",
+    "link": "https://3d.themagehub.com/",
+    "tags":  "React,AWS-CDK,Typescript",
+    "description": "Interactive Car website",
+    "source_code": "https://github.com/lastoyster/react-productlist-cart"
   },
   {
     "id": 3,
     "name": "Speed Typing App",
+    "tags":  "React,Redux,Typescript",
     "description": "React.js typing test app",
     "link": "speed-typing-app-eight.vercel.app",
     "source_code": "https://github.com/lastoyster/Speed-Typing-App"
   },
   {
     "id": 4,
-    "name": "React Native Groww-App-Clone",
-    "tags":  " React Native,Redux Tookit,Trading Chart,Investement app ",
-    "description": "A Investment and stock trading platform clone",
-    "source_code": "https://github.com/lastoyster/Groww-App-Clone",
+    "name": "Plant Identifier App",
+    "tags":  "React,React-webcam, Gemini API",
+    "description": "Plant Identifier App",
+    "link": "https://plant-identifier-ten.vercel.app/",
+    "source_code": "https://github.com/lastoyster/react-plantid-app",
   },
   {
     "id": 5,
-    "link":"https://google-gemini-clone-amber.vercel.app/",
+    "name": "React Code Translator",
+    "link":"https://ai-code-translator-phi-ruddy.vercel.app/",
+    "source_code":"https://github.com/lastoyster/ai-code-translator",
     "tags": "React.js,Typescript,OpenAI,Tailwindcss",
     "description": "Gemini interface clone built with React  & Tailwindcss and Google Gemini API Integration",
-    
   },
-  
+  {
+  "id": 6,
+  "name": "React Investement Calculator ",
+  "tags": "React.js,Tailwindcss",
+  "source_code":"https://github.com/lastoyster/investment-calculator",
+  "link":"https://investment-calculator-six-kappa.vercel.app/",
+  "description": "Front-end mentors React Challenge to create investment calculator",
+},
+];
